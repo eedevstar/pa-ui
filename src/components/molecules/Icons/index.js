@@ -1,0 +1,10 @@
+export { IconHome } from './IconHome';
+export { IconDashboard } from './IconDashboard';
+export { IconUser } from './IconUser';
+export { IconSettings } from './IconSettings';
+export { IconLogoPlus } from './IconLogoPlus';
+export { IconLogo } from './IconLogo';
+export { IconChart } from './IconChart';
+export { IconCalendar } from './IconCalendar';
+export { IconTank } from './IconTank';
+export { IconCompany } from './IconCompany';
